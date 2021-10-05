@@ -1,1 +1,1 @@
-membuat register feature
+membuat register feature dengan sebuah validasi input
